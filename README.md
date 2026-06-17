@@ -48,3 +48,12 @@ employee-dashboard/
 ### Mobile View
 
 (Add screenshot here)
+## Screenshots
+
+### Desktop View
+
+![Desktop View](screenshots/desktop.png)
+
+### Mobile View
+
+![Mobile View](screenshots/mobile.png)
